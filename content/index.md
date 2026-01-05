@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to KK 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome
+This page is a stub :)
