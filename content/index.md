@@ -2,5 +2,6 @@
 title: Welcome to KK 
 ---
 
-Welcome !!\n
+Welcome !!
+
 This page is a stub :)
